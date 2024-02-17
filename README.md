@@ -1,6 +1,10 @@
 # Scroll-Economics
 
+## Reports
 Report 1: Zero Computing: Analysis of Scroll Prover Dynamics [(link)](https://docs.google.com/document/d/1O1tRrpZx3aLMH31pXaQ-XL6nbo1tR042KVbqcogfzo4/edit?usp=sharing)
+
+## Dataset
+Files of raw datasets and Excel analysis can be found in Notion [here](https://www.notion.so/zero-computing/Scroll-economic-model-phase-1-9423de83c918461882e78c7e7f7a9736?pvs=4)
 
 ## Requirements
 Make sure you have the following installed before running the project:
