@@ -1,5 +1,7 @@
 # Scroll-Economics
 
+Report 1: Zero Computing: Analysis of Scroll Prover Dynamics [(link)](https://docs.google.com/document/d/1O1tRrpZx3aLMH31pXaQ-XL6nbo1tR042KVbqcogfzo4/edit?usp=sharing)
+
 ## Requirements
 Make sure you have the following installed before running the project:
 1. **Python:** [Download Python](https://www.python.org/downloads/)
